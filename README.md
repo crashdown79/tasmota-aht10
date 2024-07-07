@@ -12,4 +12,5 @@ PACKAGES:
  - toolchain-xtensa @ 2.40802.200502 (4.8.2)
 
 https://github.com/crashdown79/tasmota-aht10/blob/main/tasmota-4M.bin
+
 https://github.com/crashdown79/tasmota-aht10/blob/main/tasmota-4M.bin.gz
